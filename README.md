@@ -5,7 +5,7 @@ Mis à jour le 14/10/2020
 
 # Pré-requis : 
 
-- Une machine sous Linux (testé sur Debian uniquement)
+- Une machine sous Linux (testé sur Debian uniquement, en cours de test sur Ubuntu 20.04 LTS)
 
 # Installation (avec le compte "root"): 
 
